@@ -12,6 +12,7 @@ from database import Database, get_db
 from feeds import FeedFetcher, Article
 from content import ContentExtractor
 from llm import OllamaAgent
+from rss_generator import generate_rss_feed
 
 # Setup logging
 def setup_logging():
@@ -253,7 +254,7 @@ class NewsAgent:
             
             # Print summary
             self._print_summary()
-            
+
         except TimeoutError as e:
             logger.error(str(e))
             self.db.complete_run(
@@ -280,6 +281,13 @@ class NewsAgent:
             raise
         
         finally:
+            # Generate RSS feed from all interesting articles in DB
+            try:
+                count = generate_rss_feed(self.db, output_path="docs/feed.xml")
+                logger.info(f"Generated RSS feed with {count} items")
+            except Exception as e:
+                logger.error(f"RSS feed generation failed: {e}")
+
             # Cleanup
             self.db.close()
             logger.info("News Agent run complete")
