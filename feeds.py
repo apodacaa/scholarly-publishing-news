@@ -7,6 +7,8 @@ from typing import List, Dict, Any
 from datetime import datetime
 from urllib.parse import urlparse
 
+from bs4 import BeautifulSoup
+
 from config import Config
 
 logger = logging.getLogger(__name__)
@@ -133,7 +135,8 @@ class FeedFetcher:
                 # Extract article data
                 url = entry.get('link', '')
                 title = entry.get('title', 'Untitled')
-                description = entry.get('summary', entry.get('description', ''))
+                raw_description = entry.get('summary', entry.get('description', ''))
+                description = BeautifulSoup(raw_description, 'html.parser').get_text(separator=' ', strip=True)
                 pub_date = self._parse_date(entry)
                 
                 # Skip entries without URLs
