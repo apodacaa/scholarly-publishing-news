@@ -88,6 +88,12 @@ class Database:
                 )
             """)
             
+            try:
+                cursor.execute("ALTER TABLE articles ADD COLUMN description TEXT")
+                logger.info("Migrated: added description column to articles")
+            except sqlite3.OperationalError:
+                pass  # Column already exists
+
             self.conn.commit()
             logger.info("Database schema initialized")
             
@@ -118,7 +124,7 @@ class Database:
         cursor.execute("SELECT url FROM articles")
         return {row['url'] for row in cursor.fetchall()}
 
-    def insert_article(self, url: str, title: str, source: str, pub_date: str) -> int:
+    def insert_article(self, url: str, title: str, source: str, pub_date: str, description: str = "") -> int:
         """Insert new article into database.
         
         Args:
@@ -134,9 +140,9 @@ class Database:
         
         try:
             cursor.execute("""
-                INSERT INTO articles (url, title, source, pub_date)
-                VALUES (?, ?, ?, ?)
-            """, (url, title, source, pub_date))
+                INSERT INTO articles (url, title, source, pub_date, description)
+                VALUES (?, ?, ?, ?, ?)
+            """, (url, title, source, pub_date, description))
             
             self.conn.commit()
             article_id = cursor.lastrowid
@@ -278,17 +284,17 @@ class Database:
         cursor = self.conn.cursor()
         
         cursor.execute("""
-            SELECT 
+            SELECT
                 a.title,
                 a.url,
                 a.source,
                 a.pub_date,
-                s.summary,
+                a.description,
                 s.reasoning,
                 s.created_at
             FROM summaries s
             JOIN articles a ON s.article_id = a.id
-            WHERE s.interested = 1 AND s.summary IS NOT NULL
+            WHERE s.interested = 1
             ORDER BY s.created_at DESC
             LIMIT ?
         """, (limit,))

@@ -145,7 +145,8 @@ class NewsAgent:
                 url=article.url,
                 title=article.title,
                 source=article.source,
-                pub_date=article.pub_date
+                pub_date=article.pub_date,
+                description=article.description
             )
             
             # 2. Extract full content
@@ -171,28 +172,16 @@ class NewsAgent:
             
             logger.info(f"Interested: {interested} - {reasoning[:100]}...")
             
-            # 4. Summarize if interesting
-            summary = None
+            # 4. Track interesting articles
             if interested:
-                logger.debug("Generating summary...")
-                summary = self.llm_agent.summarize(
-                    article.title,
-                    content,
-                    article.url
-                )
-                
-                if summary:
-                    logger.info(f"Summary: {summary[:100]}...")
-                    self.stats['articles_interesting'] += 1
-                else:
-                    logger.warning("Failed to generate summary")
-            
+                self.stats['articles_interesting'] += 1
+
             # 5. Save results
             self.db.insert_summary(
                 article_id=article_id,
                 interested=interested,
                 reasoning=reasoning,
-                summary=summary
+                summary=None
             )
             
             # 6. Mark as processed
@@ -313,7 +302,6 @@ class NewsAgent:
                 logger.info(f"\n{i}. {s['title']}")
                 logger.info(f"   Source: {s['source']}")
                 logger.info(f"   URL: {s['url']}")
-                logger.info(f"   Summary: {s['summary']}")
                 logger.info(f"   Reasoning: {s['reasoning']}")
         
         # Database stats

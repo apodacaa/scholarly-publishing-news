@@ -38,7 +38,7 @@ def generate_rss_feed(db, output_path="feed.xml", max_items=50) -> int:
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = s["title"]
         ET.SubElement(item, "link").text = s["url"]
-        ET.SubElement(item, "description").text = s["summary"]
+        ET.SubElement(item, "description").text = s.get("description") or ""
 
         # Parse pub_date and convert to RFC-822
         if s.get("pub_date"):
