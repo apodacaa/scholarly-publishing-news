@@ -15,6 +15,11 @@ class Config:
     # === FEED SAFETY ===
     ALLOWED_FEEDS: List[str] = [
         "https://scholarlykitchen.sspnet.org/feed/",
+        "https://www.the-geyser.com/rss/",
+        "https://www.platformer.news/rss/",
+        "https://www.404media.co/rss/",
+        "https://www.wheresyoured.at/rss/",
+        "https://www.publishersweekly.com/pw/feeds/section/industry-news/index.xml",
     ]
     
     # === NETWORK SAFETY ===
