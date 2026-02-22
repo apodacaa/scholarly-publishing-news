@@ -33,7 +33,7 @@ class Config:
     # === QUALITY CONTROLS ===
     MIN_ARTICLE_LENGTH: int = 200  # Skip very short articles
     SKIP_IF_PROCESSED: bool = True  # Don't reprocess articles
-    MAX_ARTICLE_AGE_DAYS: int = 2  # Only process articles from last N days (0 = no limit)
+    MAX_ARTICLE_AGE_DAYS: int = 0  # 0 = no limit; dedup against feed.xml prevents reprocessing
     
     # === CLAUDE SETTINGS ===
     CLAUDE_API_KEY: str = os.environ.get("CLAUDE_API_KEY", "")
