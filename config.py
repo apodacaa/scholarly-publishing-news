@@ -1,6 +1,10 @@
 """Configuration and guardrails for the news agent."""
 
+import os
 from typing import List
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 class Config:
@@ -29,12 +33,12 @@ class Config:
     # === QUALITY CONTROLS ===
     MIN_ARTICLE_LENGTH: int = 200  # Skip very short articles
     SKIP_IF_PROCESSED: bool = True  # Don't reprocess articles
-    MAX_ARTICLE_AGE_DAYS: int = 14  # Only process articles from last N days (0 = no limit)
+    MAX_ARTICLE_AGE_DAYS: int = 2  # Only process articles from last N days (0 = no limit)
     
-    # === OLLAMA SETTINGS ===
-    OLLAMA_MODEL: str = "llama3.2"  # or "qwen2.5", "mistral"
-    OLLAMA_TIMEOUT: int = 30  # seconds per LLM call
-    OLLAMA_BASE_URL: str = "http://localhost:11434"
+    # === CLAUDE SETTINGS ===
+    CLAUDE_API_KEY: str = os.environ.get("CLAUDE_API_KEY", "")
+    CLAUDE_MODEL: str = "claude-haiku-4-5-20251001"
+    CLAUDE_TIMEOUT: int = 30
     
     # === LOGGING ===
     LOG_LEVEL: str = "INFO"
@@ -51,7 +55,7 @@ class Config:
     ]
     
     # === PATHS ===
-    DB_PATH: str = "data/articles.db"
+    FEED_PATH: str = "docs/feed.xml"
     LOG_PATH: str = "logs/agent.log"
     PROMPTS_DIR: str = "prompts"
 
@@ -65,11 +69,13 @@ def validate_config():
         raise ValueError("MAX_ARTICLES_PER_RUN must be positive")
     if len(Config.INTERESTS) == 0:
         raise ValueError("Must define at least one interest")
+    if not Config.CLAUDE_API_KEY:
+        raise ValueError("CLAUDE_API_KEY must be set in .env")
     print("✓ Configuration validated")
 
 
 if __name__ == "__main__":
     validate_config()
-    print(f"Model: {Config.OLLAMA_MODEL}")
+    print(f"Model: {Config.CLAUDE_MODEL}")
     print(f"Max articles: {Config.MAX_ARTICLES_PER_RUN}")
     print(f"Feeds: {len(Config.ALLOWED_FEEDS)}")
