@@ -1,0 +1,45 @@
+name: Run News Agent
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # daily at midnight UTC
+  workflow_dispatch:       # allow manual runs from the Actions tab
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # needed to commit feed.xml back to main
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Poetry
+        run: pip install poetry
+
+      - name: Install dependencies
+        run: poetry install --no-root
+
+      - name: Run agent
+        env:
+          CLAUDE_API_KEY: ${{ secrets.CLAUDE_API_KEY }}
+        run: poetry run python agent.py
+
+      - name: Commit updated feed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/feed.xml
+          if git diff --cached --quiet; then
+            echo "No changes to feed.xml, skipping commit"
+          else
+            git commit -m "chore: update feed.xml [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            git push
+          fi
