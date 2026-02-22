@@ -209,55 +209,29 @@ class FeedFetcher:
         return new_articles
 
 
-def fetch_new_articles(db) -> List[Article]:
-    """Fetch new articles that aren't already in the database.
-    
-    Args:
-        db: Database instance
-        
-    Returns:
-        List of new Article objects
-    """
-    fetcher = FeedFetcher()
-    
-    # Fetch all articles
-    all_articles = fetcher.fetch_all_feeds()
-    
-    # Get existing URLs from database
-    existing_urls = db.get_existing_urls()
-    
-    # Filter out duplicates
-    new_articles = fetcher.deduplicate_articles(all_articles, existing_urls)
-    
-    logger.info(f"Found {len(new_articles)} new articles")
-    return new_articles
-
-
 if __name__ == "__main__":
     # Test feed fetching
     import sys
-    from database import get_db
-    
+
     # Setup logging
     logging.basicConfig(
         level=logging.INFO,
         format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
     )
-    
+
     print("Testing feed fetcher...")
     print(f"Configured feeds: {len(Config.ALLOWED_FEEDS)}")
     for feed in Config.ALLOWED_FEEDS:
         print(f"  - {feed}")
     print()
-    
-    # Test fetching
+
     fetcher = FeedFetcher()
-    
+
     print("Fetching feeds...")
     articles = fetcher.fetch_all_feeds()
-    
+
     print(f"\n✓ Fetched {len(articles)} total articles")
-    
+
     if articles:
         print("\nFirst 3 articles:")
         for i, article in enumerate(articles[:3], 1):
@@ -265,28 +239,5 @@ if __name__ == "__main__":
             print(f"   Source: {article.source}")
             print(f"   URL: {article.url[:60]}...")
             print(f"   Date: {article.pub_date}")
-    
-    # Test deduplication with database
-    print("\n" + "="*60)
-    print("Testing deduplication with database...")
-    
-    with get_db() as db:
-        new_articles = fetch_new_articles(db)
-        print(f"\n✓ Found {len(new_articles)} new articles (not in database)")
-        
-        # Insert first article to test deduplication
-        if new_articles:
-            first = new_articles[0]
-            article_id = db.insert_article(
-                url=first.url,
-                title=first.title,
-                source=first.source,
-                pub_date=first.pub_date
-            )
-            print(f"✓ Inserted sample article (ID: {article_id})")
-            
-            # Fetch again to verify dedup works
-            new_articles_after = fetch_new_articles(db)
-            print(f"✓ After inserting, {len(new_articles_after)} new articles remain")
-    
+
     print("\n✓ Feed fetcher test complete!")

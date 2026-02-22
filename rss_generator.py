@@ -5,21 +5,28 @@ import re
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import format_datetime
+from typing import List
+
+from feeds import Article
 
 
-def generate_rss_feed(db, output_path="feed.xml", max_items=50) -> int:
-    """Generate an RSS 2.0 feed from interesting article summaries.
+def generate_rss_feed(
+    new_articles: List[Article],
+    existing_items: List[dict],
+    output_path: str = "docs/feed.xml",
+    max_items: int = 50,
+) -> int:
+    """Generate an RSS 2.0 feed from new articles prepended to existing items.
 
     Args:
-        db: Database instance with get_interesting_summaries method
+        new_articles: Article objects rated interesting this run
+        existing_items: Dicts parsed from current feed.xml (title, url, description, pub_date, source)
         output_path: Path to write the RSS XML file
         max_items: Maximum number of items to include
 
     Returns:
         Number of items written to the feed
     """
-    summaries = db.get_interesting_summaries(limit=max_items)
-
     # Build RSS structure
     rss = ET.Element("rss", version="2.0")
     channel = ET.SubElement(rss, "channel")
@@ -34,30 +41,57 @@ def generate_rss_feed(db, output_path="feed.xml", max_items=50) -> int:
         datetime.now(timezone.utc)
     )
 
-    for s in summaries:
-        item = ET.SubElement(channel, "item")
-        ET.SubElement(item, "title").text = s["title"]
-        ET.SubElement(item, "link").text = s["url"]
-        ET.SubElement(item, "description").text = s.get("description") or ""
+    count = 0
 
-        # Parse pub_date and convert to RFC-822
-        if s.get("pub_date"):
+    # Prepend new articles first
+    for article in new_articles:
+        if count >= max_items:
+            break
+        item = ET.SubElement(channel, "item")
+        ET.SubElement(item, "title").text = article.title
+        ET.SubElement(item, "link").text = article.url
+        ET.SubElement(item, "description").text = article.description or ""
+
+        if article.pub_date:
             try:
-                dt = datetime.fromisoformat(s["pub_date"])
+                dt = datetime.fromisoformat(article.pub_date)
                 if dt.tzinfo is None:
                     dt = dt.replace(tzinfo=timezone.utc)
                 ET.SubElement(item, "pubDate").text = format_datetime(dt)
             except (ValueError, TypeError):
                 pass
 
-        if s.get("source"):
+        if article.source:
             source_el = ET.SubElement(
-                item, "source", url=f"https://{s['source']}"
+                item, "source", url=f"https://{article.source}"
             )
-            source_el.text = s["source"]
+            source_el.text = article.source
 
         guid = ET.SubElement(item, "guid", isPermaLink="true")
-        guid.text = s["url"]
+        guid.text = article.url
+        count += 1
+
+    # Append existing items
+    for existing in existing_items:
+        if count >= max_items:
+            break
+        item = ET.SubElement(channel, "item")
+        ET.SubElement(item, "title").text = existing.get("title", "")
+        ET.SubElement(item, "link").text = existing.get("url", "")
+        ET.SubElement(item, "description").text = existing.get("description", "")
+
+        if existing.get("pub_date"):
+            ET.SubElement(item, "pubDate").text = existing["pub_date"]
+
+        if existing.get("source"):
+            source_el = ET.SubElement(
+                item, "source", url=f"https://{existing['source']}"
+            )
+            source_el.text = existing["source"]
+
+        guid = ET.SubElement(item, "guid", isPermaLink="true")
+        guid.text = existing.get("url", "")
+        count += 1
 
     # Pretty-print and serialize
     ET.indent(rss)
@@ -76,15 +110,4 @@ def generate_rss_feed(db, output_path="feed.xml", max_items=50) -> int:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n')
         f.write(tree_str)
 
-    return len(summaries)
-
-
-if __name__ == "__main__":
-    from database import get_db
-
-    db = get_db()
-    try:
-        count = generate_rss_feed(db)
-        print(f"Generated RSS feed with {count} items")
-    finally:
-        db.close()
+    return count
