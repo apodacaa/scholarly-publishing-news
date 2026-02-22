@@ -42,11 +42,15 @@ def generate_rss_feed(
     )
 
     count = 0
+    seen_urls: set = set()
 
     # Prepend new articles first
     for article in new_articles:
         if count >= max_items:
             break
+        if article.url in seen_urls:
+            continue
+        seen_urls.add(article.url)
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = article.title
         ET.SubElement(item, "link").text = article.url
@@ -75,9 +79,13 @@ def generate_rss_feed(
     for existing in existing_items:
         if count >= max_items:
             break
+        url = existing.get("url", "")
+        if url in seen_urls:
+            continue
+        seen_urls.add(url)
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = existing.get("title", "")
-        ET.SubElement(item, "link").text = existing.get("url", "")
+        ET.SubElement(item, "link").text = url
         ET.SubElement(item, "description").text = existing.get("description", "")
 
         if existing.get("pub_date"):
@@ -90,7 +98,7 @@ def generate_rss_feed(
             source_el.text = existing["source"]
 
         guid = ET.SubElement(item, "guid", isPermaLink="true")
-        guid.text = existing.get("url", "")
+        guid.text = url
         count += 1
 
     # Pretty-print and serialize
