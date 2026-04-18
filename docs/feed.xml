@@ -5,7 +5,15 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2026 00:48:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 00:43:45 +0000</lastBuildDate>
+    <item>
+      <title>Guest Post — Exploring Data Spaces in Scholarly Communications</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/04/17/guest-post-exploring-data-spaces-in-scholarly-communications/</link>
+      <description><![CDATA[Today's guest post explains the new data space pilot, which will be the focus of the upcoming BISG/SSP webinar on May 12, 2026. The post Guest Post — Exploring Data Spaces in Scholarly Communications appeared first on The Scholarly Kitchen .]]></description>
+      <pubDate>Fri, 17 Apr 2026 09:30:07 +0000</pubDate>
+      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
+      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/04/17/guest-post-exploring-data-spaces-in-scholarly-communications/</guid>
+    </item>
     <item>
       <title>The Journal Article Is Not the Job</title>
       <link>https://scholarlykitchen.sspnet.org/2026/04/15/the-journal-article-is-not-the-job/</link>
@@ -397,14 +405,6 @@
       <pubDate>Wed, 11 Feb 2026 10:30:39 +0000</pubDate>
       <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
       <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/02/11/so-is-the-essence-of-a-journal-portable-checking-in-on-_neuroimage_-and-_imaging-neuroscience_/</guid>
-    </item>
-    <item>
-      <title>Guest Post — Putting the “U” in FAIR</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/02/10/guest-post-putting-the-u-in-fair/</link>
-      <description><![CDATA[Today's guest blogger calls for adding "understandable" to the FAIR data principles, to ensure we do not surrender human knowledge in our rush for automation. The post Guest Post — Putting the “U” in FAIR appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Tue, 10 Feb 2026 10:30:11 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/02/10/guest-post-putting-the-u-in-fair/</guid>
     </item>
   </channel>
 </rss>
