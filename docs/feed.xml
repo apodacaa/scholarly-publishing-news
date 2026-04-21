@@ -5,7 +5,23 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2026 00:48:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 00:48:30 +0000</lastBuildDate>
+    <item>
+      <title>Forbes Prediction Market Gamifies Story About Mass Shooting of 8 Children</title>
+      <link>https://www.404media.co/forbes-prediction-market-gamefies-story-about-mass-shooting-of-8-children/</link>
+      <description><![CDATA[Forbes launched ForbesPredict in January as part of an effort to reverse declining traffic from search engines and keep users on its website longer.]]></description>
+      <pubDate>Mon, 20 Apr 2026 16:18:26 +0000</pubDate>
+      <source url="https://404media.co">404media.co</source>
+      <guid isPermaLink="true">https://www.404media.co/forbes-prediction-market-gamefies-story-about-mass-shooting-of-8-children/</guid>
+    </item>
+    <item>
+      <title>Exclusive: Microsoft To Shift GitHub Copilot Users To Token-Based Billing, Tighten Rate Limits</title>
+      <link>https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/</link>
+      <description><![CDATA[Executive Summary: Internal documents reveal that Microsoft plans to temporarily suspend individual account signups to its GitHub Copilot coding product, as it transitions from requests (single interactions with Copilot) towards token-based billing. The documents reveal that the weekly cost of running Github Copilot has doubled since the start]]></description>
+      <pubDate>Mon, 20 Apr 2026 17:11:58 +0000</pubDate>
+      <source url="https://wheresyoured.at">wheresyoured.at</source>
+      <guid isPermaLink="true">https://www.wheresyoured.at/news-microsoft-to-shift-github-copilot-users-to-token-based-billing-reduce-rate-limits-2/</guid>
+    </item>
     <item>
       <title>Guest Post — Exploring Data Spaces in Scholarly Communications</title>
       <link>https://scholarlykitchen.sspnet.org/2026/04/17/guest-post-exploring-data-spaces-in-scholarly-communications/</link>
@@ -389,22 +405,6 @@
       <pubDate>Tue, 17 Feb 2026 10:30:49 +0000</pubDate>
       <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
       <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/02/17/from-ai-helps-me-write-to-ai-runs-the-workflow-eight-tech-trend-reports-through-a-publishing-and-learning-lens/</guid>
-    </item>
-    <item>
-      <title>Guest Post — There’s an Elephant in the Room, but Not in Your Usage Reports</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/02/12/guest-post-theres-an-elephant-in-the-room-but-not-in-your-usage-reports/</link>
-      <description><![CDATA[Today's guest bloggers spotlight a gap in traditional usage reporting, third-party AI usage, and recommend steps needed to recover missing usage data. The post Guest Post — There’s an Elephant in the Room, but Not in Your Usage Reports appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Thu, 12 Feb 2026 10:30:08 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/02/12/guest-post-theres-an-elephant-in-the-room-but-not-in-your-usage-reports/</guid>
-    </item>
-    <item>
-      <title>So… IS the Essence of a Journal Portable? Checking in on _NeuroImage_ and _Imaging Neuroscience_</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/02/11/so-is-the-essence-of-a-journal-portable-checking-in-on-_neuroimage_-and-_imaging-neuroscience_/</link>
-      <description><![CDATA[How are two competing neuroscience journals faring since the editorial board of one departed to create the other? The post So… IS the Essence of a Journal Portable? Checking in on _NeuroImage_ and _Imaging Neuroscience_ appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Wed, 11 Feb 2026 10:30:39 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/02/11/so-is-the-essence-of-a-journal-portable-checking-in-on-_neuroimage_-and-_imaging-neuroscience_/</guid>
     </item>
   </channel>
 </rss>
