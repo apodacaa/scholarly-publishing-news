@@ -5,7 +5,23 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Apr 2026 00:45:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 00:50:15 +0000</lastBuildDate>
+    <item>
+      <title>Academic Publishing in the Age of AI: From Content to Trust</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/04/22/academic-publishing-in-the-age-of-ai-from-content-to-trust/</link>
+      <description><![CDATA[AI in science should not be viewed merely as a productivity tool layered onto existing workflows. It represents a structural shift in how knowledge moves through society, and therefore in how scientific authority is established and maintained. The post Academic Publishing in the Age of AI: From Content to Trust appeared first on The Scholarly Kitchen .]]></description>
+      <pubDate>Wed, 22 Apr 2026 09:30:03 +0000</pubDate>
+      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
+      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/04/22/academic-publishing-in-the-age-of-ai-from-content-to-trust/</guid>
+    </item>
+    <item>
+      <title>What’s Feeding Your Feed?</title>
+      <link>https://www.the-geyser.com/whats-feeding-your-feed/</link>
+      <description><![CDATA[Enter the advertising funnel of science — for beer, oil, and Gold OA solicitations]]></description>
+      <pubDate>Wed, 22 Apr 2026 10:12:52 +0000</pubDate>
+      <source url="https://the-geyser.com">the-geyser.com</source>
+      <guid isPermaLink="true">https://www.the-geyser.com/whats-feeding-your-feed/</guid>
+    </item>
     <item>
       <title>Guest Post — Moving from Identifier to Identity for Researchers</title>
       <link>https://scholarlykitchen.sspnet.org/2026/04/21/guest-post-moving-from-identifier-to-identity-for-researchers/</link>
@@ -389,22 +405,6 @@
       <pubDate>Tue, 24 Feb 2026 10:30:17 +0000</pubDate>
       <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
       <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/02/24/guest-post-ai-readiness-and-the-new-value-equation-in-scholarly-publishing/</guid>
-    </item>
-    <item>
-      <title>Number Go Down (NSFW)</title>
-      <link>https://www.the-geyser.com/number-go-down-nsfw/</link>
-      <description><![CDATA[As economic alarms blare, scientific publishing is an AI-fixated sitting duck]]></description>
-      <pubDate>Mon, 09 Feb 2026 11:02:28 +0000</pubDate>
-      <source url="https://the-geyser.com">the-geyser.com</source>
-      <guid isPermaLink="true">https://www.the-geyser.com/number-go-down-nsfw/</guid>
-    </item>
-    <item>
-      <title>Guest Post — Re-imagining Scholarly Integrity: The “Continuum of Consensus” Quality Control System</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/02/19/guest-post-re-imagining-scholarly-integrity-the-continuum-of-consensus-quality-control-system/</link>
-      <description><![CDATA[Today's guest blogger proposes the "Continuum of Consensus" as a solution to shore up research integrity, peer review, and the public trust in scholarly research. The post Guest Post — Re-imagining Scholarly Integrity: The “Continuum of Consensus” Quality Control System appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Thu, 19 Feb 2026 10:30:21 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/02/19/guest-post-re-imagining-scholarly-integrity-the-continuum-of-consensus-quality-control-system/</guid>
     </item>
   </channel>
 </rss>
