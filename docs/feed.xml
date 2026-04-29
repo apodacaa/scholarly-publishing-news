@@ -5,7 +5,31 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Apr 2026 00:53:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 00:54:38 +0000</lastBuildDate>
+    <item>
+      <title>Updating “Pump and Dump Science”</title>
+      <link>https://www.the-geyser.com/updating-pump-and-dump-science/</link>
+      <description><![CDATA[A new documentary about crypto means it’s time to update a post from last year]]></description>
+      <pubDate>Tue, 28 Apr 2026 13:54:51 +0000</pubDate>
+      <source url="https://the-geyser.com">the-geyser.com</source>
+      <guid isPermaLink="true">https://www.the-geyser.com/updating-pump-and-dump-science/</guid>
+    </item>
+    <item>
+      <title>SXSW Used AI-Powered Trademark Tool To Censor Dissent on Instagram</title>
+      <link>https://www.404media.co/sxsw-used-ai-powered-trademark-tool-to-censor-dissent-on-instagram/</link>
+      <description><![CDATA[“You’re allowed to use a company’s name to talk about the company.”]]></description>
+      <pubDate>Tue, 28 Apr 2026 15:59:23 +0000</pubDate>
+      <source url="https://404media.co">404media.co</source>
+      <guid isPermaLink="true">https://www.404media.co/sxsw-used-ai-powered-trademark-tool-to-censor-dissent-on-instagram/</guid>
+    </item>
+    <item>
+      <title>AI's Economics Don't Make Sense</title>
+      <link>https://www.wheresyoured.at/ais-economics-dont-make-sense/</link>
+      <description><![CDATA[If you liked this piece, please subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA , Anthropic and OpenAI&amp;]]></description>
+      <pubDate>Tue, 28 Apr 2026 16:35:07 +0000</pubDate>
+      <source url="https://wheresyoured.at">wheresyoured.at</source>
+      <guid isPermaLink="true">https://www.wheresyoured.at/ais-economics-dont-make-sense/</guid>
+    </item>
     <item>
       <title>Guest Post — Quality Over Quantity: Why Scholarly Publishing Needs Stronger Front-End Gatekeeping to Build Trust and Long-Term Value</title>
       <link>https://scholarlykitchen.sspnet.org/2026/04/27/guest-post-quality-over-quantity-why-scholarly-publishing-needs-stronger-front-end-gatekeeping-to-build-trust-and-long-term-value/</link>
@@ -381,30 +405,6 @@
       <pubDate>Wed, 04 Mar 2026 18:56:22 +0000</pubDate>
       <source url="https://the-geyser.com">the-geyser.com</source>
       <guid isPermaLink="true">https://www.the-geyser.com/pod-why-should-we-trust-you/</guid>
-    </item>
-    <item>
-      <title>AI Translations Are Adding ‘Hallucinations’ to Wikipedia Articles</title>
-      <link>https://www.404media.co/ai-translations-are-adding-hallucinations-to-wikipedia-articles/</link>
-      <description><![CDATA[AI translated articles swapped sources or added unsourced sentences with no explanation, while others added paragraphs sourced from completely unrelated material.]]></description>
-      <pubDate>Wed, 04 Mar 2026 14:00:52 +0000</pubDate>
-      <source url="https://404media.co">404media.co</source>
-      <guid isPermaLink="true">https://www.404media.co/ai-translations-are-adding-hallucinations-to-wikipedia-articles/</guid>
-    </item>
-    <item>
-      <title>Guest Post — The Value Challenge in Scholarly Publishing</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/03/03/guest-post-the-value-challenge-in-scholarly-publishing/</link>
-      <description><![CDATA[Today's guest blogger identifies signals of how fractured the scholarly research ecosystem has become, and how the value publishers provide is increasingly questioned, dismissed, or overlooked by key stakeholders. The post Guest Post — The Value Challenge in Scholarly Publishing appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Tue, 03 Mar 2026 10:30:34 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/03/03/guest-post-the-value-challenge-in-scholarly-publishing/</guid>
-    </item>
-    <item>
-      <title>Economic Outlook for Scholarly Communications in 2026 — SSP Pulse Check Report</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/03/02/economic-outlook-for-scholarly-communications-in-2026-ssp-pulse-check-report/</link>
-      <description><![CDATA[SSP's second Pulse Check survey results paint a picture of an industry in defensive mode — cautious, structurally stressed, but not in freefall. The post Economic Outlook for Scholarly Communications in 2026 — SSP Pulse Check Report appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Mon, 02 Mar 2026 10:30:47 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/03/02/economic-outlook-for-scholarly-communications-in-2026-ssp-pulse-check-report/</guid>
     </item>
   </channel>
 </rss>
