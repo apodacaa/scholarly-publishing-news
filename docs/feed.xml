@@ -5,7 +5,23 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Apr 2026 00:54:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 00:54:39 +0000</lastBuildDate>
+    <item>
+      <title>Guest Post – When Thinking Is Outsourced: A Warning from a Scientist Trained Before AI</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/04/29/guest-post-when-thinking-is-outsourced-a-warning-from-a-scientist-trained-before-ai/</link>
+      <description><![CDATA[Today's guest post sounds an alarm about the use of AI in research and warns that no amount of computational efficiency can compensate for the loss of our capacity for human thought. The post Guest Post – When Thinking Is Outsourced: A Warning from a Scientist Trained Before AI appeared first on The Scholarly Kitchen .]]></description>
+      <pubDate>Wed, 29 Apr 2026 09:30:55 +0000</pubDate>
+      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
+      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/04/29/guest-post-when-thinking-is-outsourced-a-warning-from-a-scientist-trained-before-ai/</guid>
+    </item>
+    <item>
+      <title>Pod: Eric Topol’s Misdiagnosis</title>
+      <link>https://www.the-geyser.com/pod-eric-topols-misdiagnosis/</link>
+      <description><![CDATA[Being named as author on a bogus paper is just a symptom of a deeper problem]]></description>
+      <pubDate>Wed, 29 Apr 2026 09:17:34 +0000</pubDate>
+      <source url="https://the-geyser.com">the-geyser.com</source>
+      <guid isPermaLink="true">https://www.the-geyser.com/pod-eric-topols-misdiagnosis/</guid>
+    </item>
     <item>
       <title>Updating “Pump and Dump Science”</title>
       <link>https://www.the-geyser.com/updating-pump-and-dump-science/</link>
@@ -25,7 +41,7 @@
     <item>
       <title>AI's Economics Don't Make Sense</title>
       <link>https://www.wheresyoured.at/ais-economics-dont-make-sense/</link>
-      <description><![CDATA[If you liked this piece, please subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA , Anthropic and OpenAI&amp;]]></description>
+      <description><![CDATA[If you liked this piece, please subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA , Anthropic and OpenAI&amp;amp;]]></description>
       <pubDate>Tue, 28 Apr 2026 16:35:07 +0000</pubDate>
       <source url="https://wheresyoured.at">wheresyoured.at</source>
       <guid isPermaLink="true">https://www.wheresyoured.at/ais-economics-dont-make-sense/</guid>
@@ -389,22 +405,6 @@
       <pubDate>Mon, 09 Mar 2026 09:30:08 +0000</pubDate>
       <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
       <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/03/09/guest-post-the-perils-of-using-generative-ai-to-perform-research-tasks-editors-and-publishers-viewpoints/</guid>
-    </item>
-    <item>
-      <title>Guest Post — Who Owns Our Knowledge? An African University Press Perspective</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/03/06/guest-post-who-owns-our-knowledge-an-african-university-press-perspective/</link>
-      <description><![CDATA[Today's guest post asks readers to reckon with the idea that knowledge reflects power, and the global knowledge economy excludes the Global South. The post Guest Post — Who Owns Our Knowledge? An African University Press Perspective appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Fri, 06 Mar 2026 10:30:58 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/03/06/guest-post-who-owns-our-knowledge-an-african-university-press-perspective/</guid>
-    </item>
-    <item>
-      <title>Pod: Why Should We Trust You?</title>
-      <link>https://www.the-geyser.com/pod-why-should-we-trust-you/</link>
-      <description><![CDATA[Trust markers are being abused to put user-targeted ads into the point of care]]></description>
-      <pubDate>Wed, 04 Mar 2026 18:56:22 +0000</pubDate>
-      <source url="https://the-geyser.com">the-geyser.com</source>
-      <guid isPermaLink="true">https://www.the-geyser.com/pod-why-should-we-trust-you/</guid>
     </item>
   </channel>
 </rss>
