@@ -5,7 +5,15 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Apr 2026 00:54:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 00:58:04 +0000</lastBuildDate>
+    <item>
+      <title>Podcast: How This Trippy Image Started A Massive Conspiracy Theory</title>
+      <link>https://www.404media.co/podcast-how-this-trippy-image-started-a-massive-conspiracy-theory/</link>
+      <description><![CDATA[A magic eye that isn't, an AI learning tool that sucks, and more in this week's podcast.]]></description>
+      <pubDate>Wed, 29 Apr 2026 12:56:30 +0000</pubDate>
+      <source url="https://404media.co">404media.co</source>
+      <guid isPermaLink="true">https://www.404media.co/podcast-how-this-trippy-image-started-a-massive-conspiracy-theory/</guid>
+    </item>
     <item>
       <title>Guest Post – When Thinking Is Outsourced: A Warning from a Scientist Trained Before AI</title>
       <link>https://scholarlykitchen.sspnet.org/2026/04/29/guest-post-when-thinking-is-outsourced-a-warning-from-a-scientist-trained-before-ai/</link>
@@ -41,7 +49,7 @@
     <item>
       <title>AI's Economics Don't Make Sense</title>
       <link>https://www.wheresyoured.at/ais-economics-dont-make-sense/</link>
-      <description><![CDATA[If you liked this piece, please subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA , Anthropic and OpenAI&amp;amp;]]></description>
+      <description><![CDATA[If you liked this piece, please subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA , Anthropic and OpenAI&amp;amp;amp;]]></description>
       <pubDate>Tue, 28 Apr 2026 16:35:07 +0000</pubDate>
       <source url="https://wheresyoured.at">wheresyoured.at</source>
       <guid isPermaLink="true">https://www.wheresyoured.at/ais-economics-dont-make-sense/</guid>
@@ -397,14 +405,6 @@
       <pubDate>Tue, 10 Mar 2026 09:30:07 +0000</pubDate>
       <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
       <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/03/10/guest-post-societies-2030-the-community-advantage-in-an-ai-first-world/</guid>
-    </item>
-    <item>
-      <title>Guest Post — The Perils of Using Generative AI to Perform Research Tasks: Editors’ and Publishers’ Viewpoints</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/03/09/guest-post-the-perils-of-using-generative-ai-to-perform-research-tasks-editors-and-publishers-viewpoints/</link>
-      <description><![CDATA[Today's guest post offers a review of a panel of publishers and editors discussing the pros and cons of using Generative AI, along with ethical and policy implications. The post Guest Post — The Perils of Using Generative AI to Perform Research Tasks: Editors’ and Publishers’ Viewpoints appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Mon, 09 Mar 2026 09:30:08 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/03/09/guest-post-the-perils-of-using-generative-ai-to-perform-research-tasks-editors-and-publishers-viewpoints/</guid>
     </item>
   </channel>
 </rss>
