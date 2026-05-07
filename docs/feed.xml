@@ -5,7 +5,15 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 May 2026 00:50:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 00:54:06 +0000</lastBuildDate>
+    <item>
+      <title>Zero-Click Readership: Are AI Overviews Changing the Way We Discover Research</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/05/06/zero-click-readership-are-ai-overviews-changing-the-way-we-discover-research/</link>
+      <description><![CDATA[Today's post asks: If research is increasingly accessed through AI-generated summaries rather than via primary sources, then what does it mean to “engage with research” at all? The post Zero-Click Readership: Are AI Overviews Changing the Way We Discover Research appeared first on The Scholarly Kitchen .]]></description>
+      <pubDate>Wed, 06 May 2026 09:30:14 +0000</pubDate>
+      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
+      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/05/06/zero-click-readership-are-ai-overviews-changing-the-way-we-discover-research/</guid>
+    </item>
     <item>
       <title>Stronger Together: BioOne and Johns Hopkins University Press Join Forces</title>
       <link>https://scholarlykitchen.sspnet.org/2026/05/05/stronger-together-bioone-and-johns-hopkins-university-press-join-forces/</link>
@@ -81,7 +89,7 @@
     <item>
       <title>AI's Economics Don't Make Sense</title>
       <link>https://www.wheresyoured.at/ais-economics-dont-make-sense/</link>
-      <description><![CDATA[If you liked this piece, please subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA , Anthropic and OpenAI&amp;amp;amp;amp;amp;amp;amp;amp;]]></description>
+      <description><![CDATA[If you liked this piece, please subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA , Anthropic and OpenAI&amp;amp;amp;amp;amp;amp;amp;amp;amp;]]></description>
       <pubDate>Tue, 28 Apr 2026 16:35:07 +0000</pubDate>
       <source url="https://wheresyoured.at">wheresyoured.at</source>
       <guid isPermaLink="true">https://www.wheresyoured.at/ais-economics-dont-make-sense/</guid>
@@ -397,14 +405,6 @@
       <pubDate>Mon, 16 Mar 2026 09:30:41 +0000</pubDate>
       <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
       <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/03/16/ai-in-peer-review-revisiting-an-8-year-old-debate/</guid>
-    </item>
-    <item>
-      <title>Bespoke Preprint Servers Fade</title>
-      <link>https://www.the-geyser.com/bespoke-preprint-servers-fade/</link>
-      <description><![CDATA[Cornell pushes arXiv out of the nest to fight openRxiv’s weaklings for food]]></description>
-      <pubDate>Mon, 16 Mar 2026 10:17:17 +0000</pubDate>
-      <source url="https://the-geyser.com">the-geyser.com</source>
-      <guid isPermaLink="true">https://www.the-geyser.com/bespoke-preprint-servers-fade/</guid>
     </item>
   </channel>
 </rss>
