@@ -5,7 +5,23 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jul 2026 02:44:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 02:51:43 +0000</lastBuildDate>
+    <item>
+      <title>Categorizing Open Access Business Models</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/07/28/categorizing-open-access-business-models/</link>
+      <description><![CDATA[Models for funding open access journal article publishing can be sorted into three categories, organized by who pays and what they pay for: transactional, collective action, and subvention. The post Categorizing Open Access Business Models appeared first on The Scholarly Kitchen .]]></description>
+      <pubDate>Tue, 28 Jul 2026 09:30:19 +0000</pubDate>
+      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
+      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/07/28/categorizing-open-access-business-models/</guid>
+    </item>
+    <item>
+      <title>Substackers Say New AI Detection Tool Is a ‘Witch Hunt’</title>
+      <link>https://www.404media.co/substackers-say-new-ai-detection-tool-is-a-witch-hunt/</link>
+      <description><![CDATA[“I’m not going to apologize for using AI in the creation process.”]]></description>
+      <pubDate>Tue, 28 Jul 2026 14:53:59 +0000</pubDate>
+      <source url="https://404media.co">404media.co</source>
+      <guid isPermaLink="true">https://www.404media.co/substackers-say-new-ai-detection-tool-is-a-witch-hunt/</guid>
+    </item>
     <item>
       <title>Revisiting: A Fake Paper in 20 Minutes</title>
       <link>https://www.the-geyser.com/revisiting-a-fake-paper-in-20-minutes/</link>
@@ -305,7 +321,7 @@
     <item>
       <title>Guest Post — Trust &amp; Community Are the Moat, Infrastructure is Your Leverage: Dispatches from PurePub.AI</title>
       <link>https://scholarlykitchen.sspnet.org/2026/06/09/guest-post-trust-community-are-the-moat-infrastructure-is-your-leverage-dispatches-from-purepub-ai/</link>
-      <description><![CDATA[Today's guest post asserts that AI infrastructure will let publishers truly leverage machines, while brand and community are what will keep them meaningful to humans. The post Guest Post — Trust &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Community Are the Moat, Infrastructure is Your Leverage: Dispatches from PurePub.AI appeared first on The Scholarly Kitchen .]]></description>
+      <description><![CDATA[Today's guest post asserts that AI infrastructure will let publishers truly leverage machines, while brand and community are what will keep them meaningful to humans. The post Guest Post — Trust &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Community Are the Moat, Infrastructure is Your Leverage: Dispatches from PurePub.AI appeared first on The Scholarly Kitchen .]]></description>
       <pubDate>Tue, 09 Jun 2026 09:30:46 +0000</pubDate>
       <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
       <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/06/09/guest-post-trust-community-are-the-moat-infrastructure-is-your-leverage-dispatches-from-purepub-ai/</guid>
@@ -389,22 +405,6 @@
       <pubDate>Mon, 01 Jun 2026 09:12:18 +0000</pubDate>
       <source url="https://the-geyser.com">the-geyser.com</source>
       <guid isPermaLink="true">https://www.the-geyser.com/meatheads-at-medrxiv-jacc/</guid>
-    </item>
-    <item>
-      <title>Guest Post — Scholarly AI Search Shortcomings and the Need for Better Metadata</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/05/29/guest-post-scholarly-ai-search-shortcomings-and-the-need-for-better-metadata/</link>
-      <description><![CDATA[AI scholarly search tools often miss important literature due to incomplete metadata. Better full-text-derived metadata could significantly improve discovery. The post Guest Post — Scholarly AI Search Shortcomings and the Need for Better Metadata appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Fri, 29 May 2026 09:30:02 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/05/29/guest-post-scholarly-ai-search-shortcomings-and-the-need-for-better-metadata/</guid>
-    </item>
-    <item>
-      <title>Beyond the Article, Beyond the APC: What We Learned from 18 Months of R&amp;D</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/05/28/beyond-the-article-beyond-the-apc-what-we-learned-from-18-months-of-rd/</link>
-      <description><![CDATA[Today's post shares the results of an initiative designed to answer the question: what would it actually take to build a publishing model fit for the research ecosystem we have now, rather than the one we inherited? The post Beyond the Article, Beyond the APC: What We Learned from 18 Months of R&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;D appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Thu, 28 May 2026 13:00:16 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/05/28/beyond-the-article-beyond-the-apc-what-we-learned-from-18-months-of-rd/</guid>
     </item>
   </channel>
 </rss>
