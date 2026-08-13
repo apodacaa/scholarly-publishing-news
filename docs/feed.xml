@@ -5,7 +5,23 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Aug 2026 02:08:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 02:10:42 +0000</lastBuildDate>
+    <item>
+      <title>Reading Between the Lines, Part 1: A Cognitive Framework for AI in Scholarly Publishing</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/08/12/reading-between-the-lines-part-1-a-cognitive-framework-for-ai-in-scholarly-publishing/</link>
+      <description><![CDATA[AI is now a permanent feature of the scholarly landscape. The question is no longer whether it should be used, but how it should be understood and governed. The post Reading Between the Lines, Part 1: A Cognitive Framework for AI in Scholarly Publishing appeared first on The Scholarly Kitchen .]]></description>
+      <pubDate>Wed, 12 Aug 2026 09:30:43 +0000</pubDate>
+      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
+      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/08/12/reading-between-the-lines-part-1-a-cognitive-framework-for-ai-in-scholarly-publishing/</guid>
+    </item>
+    <item>
+      <title>JAMA Misses on AI Policies</title>
+      <link>https://www.the-geyser.com/jama-misses-on-ai-policies/</link>
+      <description><![CDATA[More restrictive, but the new guidance shows JAMA is learning the hard way]]></description>
+      <pubDate>Wed, 12 Aug 2026 09:47:30 +0000</pubDate>
+      <source url="https://the-geyser.com">the-geyser.com</source>
+      <guid isPermaLink="true">https://www.the-geyser.com/jama-misses-on-ai-policies/</guid>
+    </item>
     <item>
       <title>What Authors Expect Now, and Why Publishing Hasn’t Kept Up: An Interview with Jennifer Fleet of Aries Systems and Christian Grubak of ChronosHub</title>
       <link>https://scholarlykitchen.sspnet.org/2026/08/11/what-authors-expect-now-and-why-publishing-hasnt-kept-up-an-interview-with-jennifer-fleet-of-aries-systems-and-christian-grubak-of-chronoshub/</link>
@@ -389,22 +405,6 @@
       <pubDate>Mon, 15 Jun 2026 09:07:52 +0000</pubDate>
       <source url="https://the-geyser.com">the-geyser.com</source>
       <guid isPermaLink="true">https://www.the-geyser.com/trust-markers-flame-out-fast/</guid>
-    </item>
-    <item>
-      <title>Guest Post — Fixing the Leaky Metadata Pipeline: A Conversation with the Creator of Research Nexus Score</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/06/11/guest-post-fixing-the-leaky-metadata-pipeline-a-conversation-with-the-creator-of-research-nexus-score/</link>
-      <description><![CDATA[Today, guest blogger Rob Johnson speaks with the creator of Research Nexus Score,  and observes that metadata quality has gone from a niche concern to a sector-wide anxiety. The post Guest Post — Fixing the Leaky Metadata Pipeline: A Conversation with the Creator of Research Nexus Score appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Thu, 11 Jun 2026 09:30:02 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/06/11/guest-post-fixing-the-leaky-metadata-pipeline-a-conversation-with-the-creator-of-research-nexus-score/</guid>
-    </item>
-    <item>
-      <title>Building Scholar-Ready AI: A Conversation with Todd Toler</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/06/10/building-scholar-ready-ai/</link>
-      <description><![CDATA[A conversation on AI retrieval, the provenance problem, and the shared infrastructure scholarly publishing needs. The post Building Scholar-Ready AI: A Conversation with Todd Toler appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Wed, 10 Jun 2026 09:30:10 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/06/10/building-scholar-ready-ai/</guid>
     </item>
   </channel>
 </rss>
