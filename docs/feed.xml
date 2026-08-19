@@ -5,7 +5,23 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 01:22:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 01:23:44 +0000</lastBuildDate>
+    <item>
+      <title>Guest Post — Preserving the Record, Shaping the Future: Why Diversity Matters in Digital Preservation</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/08/18/guest-post-preserving-the-record-shaping-the-future-why-diversity-matters-in-digital-preservation/</link>
+      <description><![CDATA[Today's guest post argues that digital preservation is not just a technical problem, but a function that often ignores issues of social justice, quietly codifying existing imbalances in scholarly communication. The post Guest Post — Preserving the Record, Shaping the Future: Why Diversity Matters in Digital Preservation appeared first on The Scholarly Kitchen .]]></description>
+      <pubDate>Tue, 18 Aug 2026 09:30:04 +0000</pubDate>
+      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
+      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/08/18/guest-post-preserving-the-record-shaping-the-future-why-diversity-matters-in-digital-preservation/</guid>
+    </item>
+    <item>
+      <title>It Has Become Absurd</title>
+      <link>https://www.the-geyser.com/it-has-become-absurd/</link>
+      <description><![CDATA[An official scholarly publishing blog and a database of retractions get exploited]]></description>
+      <pubDate>Tue, 18 Aug 2026 09:32:35 +0000</pubDate>
+      <source url="https://the-geyser.com">the-geyser.com</source>
+      <guid isPermaLink="true">https://www.the-geyser.com/it-has-become-absurd/</guid>
+    </item>
     <item>
       <title>LLM Policies Prove a Distraction</title>
       <link>https://www.the-geyser.com/llm-policies-prove-a-distraction/</link>
@@ -389,22 +405,6 @@
       <pubDate>Tue, 23 Jun 2026 09:54:16 +0000</pubDate>
       <source url="https://the-geyser.com">the-geyser.com</source>
       <guid isPermaLink="true">https://www.the-geyser.com/omics-persists-in-n-carolina/</guid>
-    </item>
-    <item>
-      <title>A Platform Comes Apart: Part 1</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/06/22/a-platform-comes-apart-part-1/</link>
-      <description><![CDATA[Today's post explores what happens to the scholarly content platform when AI agents become the users. The post A Platform Comes Apart: Part 1 appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Mon, 22 Jun 2026 09:30:10 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/06/22/a-platform-comes-apart-part-1/</guid>
-    </item>
-    <item>
-      <title>Pod: Let’s Talk Impact Factor</title>
-      <link>https://www.the-geyser.com/pod-lets-talk-impact-factor/</link>
-      <description><![CDATA[The constraints upstream are disrupted, and that spells trouble downstream]]></description>
-      <pubDate>Thu, 18 Jun 2026 18:26:11 +0000</pubDate>
-      <source url="https://the-geyser.com">the-geyser.com</source>
-      <guid isPermaLink="true">https://www.the-geyser.com/pod-lets-talk-impact-factor/</guid>
     </item>
   </channel>
 </rss>
