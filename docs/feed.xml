@@ -5,7 +5,23 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2026 01:23:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 01:22:38 +0000</lastBuildDate>
+    <item>
+      <title>Guest Post — AI Can Find the Article. Can It Tell Which Version It Used?</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/08/19/guest-post-ai-can-find-the-article-can-it-tell-which-version-it-used/</link>
+      <description><![CDATA[In this AI era, establishing trust and validating article versions with persistent identifiers (PIDs) is more important than ever. The post Guest Post — AI Can Find the Article. Can It Tell Which Version It Used? appeared first on The Scholarly Kitchen .]]></description>
+      <pubDate>Wed, 19 Aug 2026 09:30:55 +0000</pubDate>
+      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
+      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/08/19/guest-post-ai-can-find-the-article-can-it-tell-which-version-it-used/</guid>
+    </item>
+    <item>
+      <title>Pod: Scientific Publishing’s Fauci Reckoning</title>
+      <link>https://www.the-geyser.com/pod-scientific-publishings-fauci-reckoning/</link>
+      <description><![CDATA[Did our approach to Covid-19 publishing make the Fauci hearing possible?]]></description>
+      <pubDate>Wed, 19 Aug 2026 17:50:43 +0000</pubDate>
+      <source url="https://the-geyser.com">the-geyser.com</source>
+      <guid isPermaLink="true">https://www.the-geyser.com/pod-scientific-publishings-fauci-reckoning/</guid>
+    </item>
     <item>
       <title>Guest Post — Preserving the Record, Shaping the Future: Why Diversity Matters in Digital Preservation</title>
       <link>https://scholarlykitchen.sspnet.org/2026/08/18/guest-post-preserving-the-record-shaping-the-future-why-diversity-matters-in-digital-preservation/</link>
@@ -389,22 +405,6 @@
       <pubDate>Wed, 24 Jun 2026 10:16:09 +0000</pubDate>
       <source url="https://the-geyser.com">the-geyser.com</source>
       <guid isPermaLink="true">https://www.the-geyser.com/should/</guid>
-    </item>
-    <item>
-      <title>Guest Post — Legitimate but Not Loved: What Academic Librarians Think About AI</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/06/23/guest-post-legitimate-but-not-loved-what-academic-librarians-think-about-ai/</link>
-      <description><![CDATA[While it’s true that AI may be viewed as "legitimate," it’s far from universally loved. Understanding that distinction tells us something important about how the technology may ultimately be adopted — and governed — within academia. The post Guest Post — Legitimate but Not Loved: What Academic Librarians Think About AI appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Tue, 23 Jun 2026 09:30:42 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/06/23/guest-post-legitimate-but-not-loved-what-academic-librarians-think-about-ai/</guid>
-    </item>
-    <item>
-      <title>OMICS Persists in N. Carolina</title>
-      <link>https://www.the-geyser.com/omics-persists-in-n-carolina/</link>
-      <description><![CDATA[Research misconduct, fraud, self-dealing, and predatory publishing circulates]]></description>
-      <pubDate>Tue, 23 Jun 2026 09:54:16 +0000</pubDate>
-      <source url="https://the-geyser.com">the-geyser.com</source>
-      <guid isPermaLink="true">https://www.the-geyser.com/omics-persists-in-n-carolina/</guid>
     </item>
   </channel>
 </rss>
