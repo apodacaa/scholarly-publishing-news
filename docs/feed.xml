@@ -5,7 +5,15 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Aug 2026 01:22:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 01:27:02 +0000</lastBuildDate>
+    <item>
+      <title>The website that created an AI clone of its editor in chief</title>
+      <link>https://www.platformer.news/every-dan-shipper-interview-ai-writing/</link>
+      <description><![CDATA[Every CEO Dan Shipper on doubling headcount while automating everything, building an agent out of 30,000 copyedits, and the “dirty secret” of writing with AI]]></description>
+      <pubDate>Fri, 21 Aug 2026 00:00:50 +0000</pubDate>
+      <source url="https://platformer.news">platformer.news</source>
+      <guid isPermaLink="true">https://www.platformer.news/every-dan-shipper-interview-ai-writing/</guid>
+    </item>
     <item>
       <title>Guest Post — AI Can Find the Article. Can It Tell Which Version It Used?</title>
       <link>https://scholarlykitchen.sspnet.org/2026/08/19/guest-post-ai-can-find-the-article-can-it-tell-which-version-it-used/</link>
@@ -397,14 +405,6 @@
       <pubDate>Wed, 24 Jun 2026 09:30:11 +0000</pubDate>
       <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
       <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/06/24/frenemies-a-tale-of-scholarly-publishing-marketing/</guid>
-    </item>
-    <item>
-      <title>Should We License Publishers?</title>
-      <link>https://www.the-geyser.com/should/</link>
-      <description><![CDATA[We once had the protection of a business model, but with that gone . . .]]></description>
-      <pubDate>Wed, 24 Jun 2026 10:16:09 +0000</pubDate>
-      <source url="https://the-geyser.com">the-geyser.com</source>
-      <guid isPermaLink="true">https://www.the-geyser.com/should/</guid>
     </item>
   </channel>
 </rss>
