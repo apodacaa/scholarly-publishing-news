@@ -5,7 +5,15 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Aug 2026 01:24:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 01:27:13 +0000</lastBuildDate>
+    <item>
+      <title>Making Papers Transparent</title>
+      <link>https://www.the-geyser.com/making-papers-transparent/</link>
+      <description><![CDATA[AACR once printed OA articles, and called them ads to comport with laws]]></description>
+      <pubDate>Tue, 25 Aug 2026 09:52:01 +0000</pubDate>
+      <source url="https://the-geyser.com">the-geyser.com</source>
+      <guid isPermaLink="true">https://www.the-geyser.com/making-papers-transparent/</guid>
+    </item>
     <item>
       <title>Guest Post — Beyond Messaging: The Structural Case for Rebranding Scholarly Publishing</title>
       <link>https://scholarlykitchen.sspnet.org/2026/08/24/guest-post-beyond-messaging-the-structural-case-for-rebranding-scholarly-publishing/</link>
@@ -397,14 +405,6 @@
       <pubDate>Mon, 29 Jun 2026 09:30:06 +0000</pubDate>
       <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
       <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/06/29/before-the-guardrails-why-ai-governance-in-research-must-start-with-purpose/</guid>
-    </item>
-    <item>
-      <title>Open Science Drowns Science</title>
-      <link>https://www.the-geyser.com/open-science-drowns-science/</link>
-      <description><![CDATA[Open data and OA publishing have proven a combination toxic to the truth]]></description>
-      <pubDate>Mon, 29 Jun 2026 09:49:04 +0000</pubDate>
-      <source url="https://the-geyser.com">the-geyser.com</source>
-      <guid isPermaLink="true">https://www.the-geyser.com/open-science-drowns-science/</guid>
     </item>
   </channel>
 </rss>
