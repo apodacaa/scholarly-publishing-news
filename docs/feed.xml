@@ -5,7 +5,23 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2026 04:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 04:13:14 +0000</lastBuildDate>
+    <item>
+      <title>We Can Now Track AI-generated Content. It Doesn’t Solve the Real Problem.</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/08/31/we-can-now-track-ai-generated-content/</link>
+      <description><![CDATA[Identifying AI content is now embedded in Claude models. It doesn't solve the problem we have. It also creates others. The post We Can Now Track AI-generated Content. It Doesn’t Solve the Real Problem. appeared first on The Scholarly Kitchen .]]></description>
+      <pubDate>Mon, 31 Aug 2026 09:30:32 +0000</pubDate>
+      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
+      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/08/31/we-can-now-track-ai-generated-content/</guid>
+    </item>
+    <item>
+      <title>Zenodo’s DOIs Spread AI Lies</title>
+      <link>https://www.the-geyser.com/zenodos-dois-spread-ai-lies/</link>
+      <description><![CDATA[Alex Pretti got smeared by an AI “ghost” scientist who spreads lies using DOIs]]></description>
+      <pubDate>Mon, 31 Aug 2026 09:18:38 +0000</pubDate>
+      <source url="https://the-geyser.com">the-geyser.com</source>
+      <guid isPermaLink="true">https://www.the-geyser.com/zenodos-dois-spread-ai-lies/</guid>
+    </item>
     <item>
       <title>AI Use in The Scholarly Kitchen</title>
       <link>https://scholarlykitchen.sspnet.org/2026/08/27/ai-use-in-the-scholarly-kitchen/</link>
@@ -389,22 +405,6 @@
       <pubDate>Tue, 07 Jul 2026 09:19:24 +0000</pubDate>
       <source url="https://the-geyser.com">the-geyser.com</source>
       <guid isPermaLink="true">https://www.the-geyser.com/theres-eugenics-in-them-preprints/</guid>
-    </item>
-    <item>
-      <title>Pump-and-Dump Preprinting</title>
-      <link>https://www.the-geyser.com/pump-and-dump-preprinting/</link>
-      <description><![CDATA[Another bad comparison of preprints and papers also seeks crypto profits?]]></description>
-      <pubDate>Mon, 06 Jul 2026 10:18:16 +0000</pubDate>
-      <source url="https://the-geyser.com">the-geyser.com</source>
-      <guid isPermaLink="true">https://www.the-geyser.com/pump-and-dump-preprinting/</guid>
-    </item>
-    <item>
-      <title>Social Media in Scholarly Communications — SSP Pulse Check Report</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/07/02/social-media-in-scholarly-communications-ssp-pulse-check-report/</link>
-      <description><![CDATA[SSP's latest Pulse Check survey offers a community-wide snapshot of social media in scholarly publishing as it stands today. The post Social Media in Scholarly Communications — SSP Pulse Check Report appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Thu, 02 Jul 2026 09:30:52 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/07/02/social-media-in-scholarly-communications-ssp-pulse-check-report/</guid>
     </item>
   </channel>
 </rss>
