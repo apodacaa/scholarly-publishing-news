@@ -5,7 +5,15 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2026 04:13:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 03:35:59 +0000</lastBuildDate>
+    <item>
+      <title>There Is No Peer Review Crisis</title>
+      <link>https://www.the-geyser.com/there-is-no-peer-review-crisis/</link>
+      <description><![CDATA[Stop trying to solve for X when the answer is Why]]></description>
+      <pubDate>Tue, 01 Sep 2026 10:16:10 +0000</pubDate>
+      <source url="https://the-geyser.com">the-geyser.com</source>
+      <guid isPermaLink="true">https://www.the-geyser.com/there-is-no-peer-review-crisis/</guid>
+    </item>
     <item>
       <title>We Can Now Track AI-generated Content. It Doesn’t Solve the Real Problem.</title>
       <link>https://scholarlykitchen.sspnet.org/2026/08/31/we-can-now-track-ai-generated-content/</link>
@@ -397,14 +405,6 @@
       <pubDate>Wed, 08 Jul 2026 09:30:23 +0000</pubDate>
       <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
       <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/07/08/guest-post-where-do-we-go-from-here-how-scientific-societies-are-thinking-about-the-proposed-omb-funding-rule/</guid>
-    </item>
-    <item>
-      <title>There’s Eugenics In Them Preprints</title>
-      <link>https://www.the-geyser.com/theres-eugenics-in-them-preprints/</link>
-      <description><![CDATA[Seeking legitimacy, racists and eugenicists turn to preprint platforms]]></description>
-      <pubDate>Tue, 07 Jul 2026 09:19:24 +0000</pubDate>
-      <source url="https://the-geyser.com">the-geyser.com</source>
-      <guid isPermaLink="true">https://www.the-geyser.com/theres-eugenics-in-them-preprints/</guid>
     </item>
   </channel>
 </rss>
