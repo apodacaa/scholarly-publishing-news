@@ -5,7 +5,15 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2026 03:35:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 03:35:52 +0000</lastBuildDate>
+    <item>
+      <title>Podcast: We Spoke to an Amazon Worker Destroying Books for AI</title>
+      <link>https://www.404media.co/podcast-we-spoke-to-an-amazon-worker-destroying-books-for-ai/</link>
+      <description><![CDATA[A follow up to the Amazon destroying books for AI story, why a bunch of names keep appearing in AI-generated papers, and ICE's latest spending spree.]]></description>
+      <pubDate>Wed, 02 Sep 2026 12:47:45 +0000</pubDate>
+      <source url="https://404media.co">404media.co</source>
+      <guid isPermaLink="true">https://www.404media.co/podcast-we-spoke-to-an-amazon-worker-destroying-books-for-ai/</guid>
+    </item>
     <item>
       <title>There Is No Peer Review Crisis</title>
       <link>https://www.the-geyser.com/there-is-no-peer-review-crisis/</link>
@@ -397,14 +405,6 @@
       <pubDate>Thu, 09 Jul 2026 21:54:58 +0000</pubDate>
       <source url="https://404media.co">404media.co</source>
       <guid isPermaLink="true">https://www.404media.co/patreon-cloudflare-partnership-ai-crawlers/</guid>
-    </item>
-    <item>
-      <title>Guest Post — Where Do We Go From Here? How Scientific Societies are Thinking about the Proposed OMB Funding Rule</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/07/08/guest-post-where-do-we-go-from-here-how-scientific-societies-are-thinking-about-the-proposed-omb-funding-rule/</link>
-      <description><![CDATA[Today's post features conversations with society publishing leaders resisting the proposed OMB rule change for federal research funding. The post Guest Post — Where Do We Go From Here? How Scientific Societies are Thinking about the Proposed OMB Funding Rule appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Wed, 08 Jul 2026 09:30:23 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/07/08/guest-post-where-do-we-go-from-here-how-scientific-societies-are-thinking-about-the-proposed-omb-funding-rule/</guid>
     </item>
   </channel>
 </rss>
