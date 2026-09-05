@@ -5,7 +5,15 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Sep 2026 03:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 03:35:53 +0000</lastBuildDate>
+    <item>
+      <title>New Directions Seminar: What Is a Journal in 2030?</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/09/04/new-directions-seminar-what-is-a-journal-in-2030/</link>
+      <description><![CDATA[Today, we learn what's in store for this year's fall seminar from SSP. The post New Directions Seminar: What Is a Journal in 2030? appeared first on The Scholarly Kitchen .]]></description>
+      <pubDate>Fri, 04 Sep 2026 09:30:08 +0000</pubDate>
+      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
+      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/09/04/new-directions-seminar-what-is-a-journal-in-2030/</guid>
+    </item>
     <item>
       <title>Guest Post – A Year of Trends Beyond Scholarly Comms: What You Need to Know</title>
       <link>https://scholarlykitchen.sspnet.org/2026/09/03/guest-post-a-year-of-trends-beyond-scholarly-comms-what-you-need-to-know/</link>
@@ -397,14 +405,6 @@
       <pubDate>Tue, 14 Jul 2026 09:30:20 +0000</pubDate>
       <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
       <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/07/14/open-science-2-0-building-understanding-in-an-ai-mediated-world/</guid>
-    </item>
-    <item>
-      <title>Is arXiv Becoming aiXiv?</title>
-      <link>https://www.the-geyser.com/is-arxiv-becoming-aixiv/</link>
-      <description><![CDATA[The AI-powered degradation and enshittification of arXiv is well underway]]></description>
-      <pubDate>Tue, 14 Jul 2026 09:18:48 +0000</pubDate>
-      <source url="https://the-geyser.com">the-geyser.com</source>
-      <guid isPermaLink="true">https://www.the-geyser.com/is-arxiv-becoming-aixiv/</guid>
     </item>
   </channel>
 </rss>
