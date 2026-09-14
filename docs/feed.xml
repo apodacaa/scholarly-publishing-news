@@ -5,7 +5,15 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Sep 2026 03:54:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 04:01:10 +0000</lastBuildDate>
+    <item>
+      <title>This Week’s Texted Discoveries</title>
+      <link>https://www.the-geyser.com/this-weeks-texted-discoveries-40/</link>
+      <description><![CDATA[We are constantly sharing relevant stuff we find — here’s this week’s fetch]]></description>
+      <pubDate>Thu, 10 Sep 2026 09:56:48 +0000</pubDate>
+      <source url="https://the-geyser.com">the-geyser.com</source>
+      <guid isPermaLink="true">https://www.the-geyser.com/this-weeks-texted-discoveries-40/</guid>
+    </item>
     <item>
       <title>Guest Post — A Groupthink We Don’t Talk Much About</title>
       <link>https://scholarlykitchen.sspnet.org/2026/09/11/guest-post-a-groupthink-we-dont-talk-much-about/</link>
@@ -397,14 +405,6 @@
       <pubDate>Fri, 17 Jul 2026 09:30:34 +0000</pubDate>
       <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
       <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/07/17/the-latest-merger-annual-reviews-acquires-underline-science/</guid>
-    </item>
-    <item>
-      <title>Guest Post — From Parasitism to Symbiosis: Escaping Peer-Pressure and For-Profit Publishers Through Diamond Open Access</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/07/16/guest-post-from-parasitism-to-symbiosis-escaping-peer-pressure-and-for-profit-publishers-through-diamond-open-access/</link>
-      <description><![CDATA[Two environmental researchers argue that open-access publishing has undergone major “environmental” shifts, triggering rapid and far-reaching evolutionary responses, not unlike natural ecocystems. The post Guest Post — From Parasitism to Symbiosis: Escaping Peer-Pressure and For-Profit Publishers Through Diamond Open Access appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Thu, 16 Jul 2026 09:30:08 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/07/16/guest-post-from-parasitism-to-symbiosis-escaping-peer-pressure-and-for-profit-publishers-through-diamond-open-access/</guid>
     </item>
   </channel>
 </rss>
