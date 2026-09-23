@@ -5,7 +5,23 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 03:58:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 03:55:52 +0000</lastBuildDate>
+    <item>
+      <title>Damned if You Do, Damned if You Don’t: Multilingual Researchers’ Use of AI in Academic Writing</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/09/22/damned-if-you-do-damned-if-you-dont-multilingual-researchers-use-of-ai-in-academic-writing/</link>
+      <description><![CDATA[Generative AI has made language tools ubiquitous, but it introduces risks of homogenized texts and semantic slippage. The post Damned if You Do, Damned if You Don’t: Multilingual Researchers’ Use of AI in Academic Writing appeared first on The Scholarly Kitchen .]]></description>
+      <pubDate>Tue, 22 Sep 2026 09:30:36 +0000</pubDate>
+      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
+      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/09/22/damned-if-you-do-damned-if-you-dont-multilingual-researchers-use-of-ai-in-academic-writing/</guid>
+    </item>
+    <item>
+      <title>Resisting Oligarchic Publishing</title>
+      <link>https://www.the-geyser.com/resisting-oligarchic-publishing/</link>
+      <description><![CDATA[Scholarly publishing continues to tolerate influence from the rich and powerful]]></description>
+      <pubDate>Tue, 22 Sep 2026 09:50:16 +0000</pubDate>
+      <source url="https://the-geyser.com">the-geyser.com</source>
+      <guid isPermaLink="true">https://www.the-geyser.com/resisting-oligarchic-publishing/</guid>
+    </item>
     <item>
       <title>Publishers Flood Their Readers</title>
       <link>https://www.the-geyser.com/publishers-flood-their-readers/</link>
@@ -389,22 +405,6 @@
       <pubDate>Tue, 28 Jul 2026 09:30:19 +0000</pubDate>
       <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
       <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/07/28/categorizing-open-access-business-models/</guid>
-    </item>
-    <item>
-      <title>Substackers Say New AI Detection Tool Is a ‘Witch Hunt’</title>
-      <link>https://www.404media.co/substackers-say-new-ai-detection-tool-is-a-witch-hunt/</link>
-      <description><![CDATA[“I’m not going to apologize for using AI in the creation process.”]]></description>
-      <pubDate>Tue, 28 Jul 2026 14:53:59 +0000</pubDate>
-      <source url="https://404media.co">404media.co</source>
-      <guid isPermaLink="true">https://www.404media.co/substackers-say-new-ai-detection-tool-is-a-witch-hunt/</guid>
-    </item>
-    <item>
-      <title>Revisiting: A Fake Paper in 20 Minutes</title>
-      <link>https://www.the-geyser.com/revisiting-a-fake-paper-in-20-minutes/</link>
-      <description><![CDATA[A commercial offering lets anyone make a fake science paper over lunch]]></description>
-      <pubDate>Mon, 27 Jul 2026 09:55:48 +0000</pubDate>
-      <source url="https://the-geyser.com">the-geyser.com</source>
-      <guid isPermaLink="true">https://www.the-geyser.com/revisiting-a-fake-paper-in-20-minutes/</guid>
     </item>
   </channel>
 </rss>
