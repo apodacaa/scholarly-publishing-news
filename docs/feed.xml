@@ -5,7 +5,15 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Sep 2026 03:55:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 03:48:49 +0000</lastBuildDate>
+    <item>
+      <title>AI and Scholarly Reading: Foxes versus Hedgehogs</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/09/23/ai-and-scholarly-reading-foxes-versus-hedgehogs/</link>
+      <description><![CDATA[Some readers are foxes, and some are hedgehogs. What kind of reader is AI, and how will that impact both the practice of science and the business of journal publishing? The post AI and Scholarly Reading: Foxes versus Hedgehogs appeared first on The Scholarly Kitchen .]]></description>
+      <pubDate>Wed, 23 Sep 2026 09:30:35 +0000</pubDate>
+      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
+      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/09/23/ai-and-scholarly-reading-foxes-versus-hedgehogs/</guid>
+    </item>
     <item>
       <title>Damned if You Do, Damned if You Don’t: Multilingual Researchers’ Use of AI in Academic Writing</title>
       <link>https://scholarlykitchen.sspnet.org/2026/09/22/damned-if-you-do-damned-if-you-dont-multilingual-researchers-use-of-ai-in-academic-writing/</link>
@@ -397,14 +405,6 @@
       <pubDate>Wed, 29 Jul 2026 09:30:23 +0000</pubDate>
       <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
       <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/07/29/the-hidden-cost-of-trust/</guid>
-    </item>
-    <item>
-      <title>Categorizing Open Access Business Models</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/07/28/categorizing-open-access-business-models/</link>
-      <description><![CDATA[Models for funding open access journal article publishing can be sorted into three categories, organized by who pays and what they pay for: transactional, collective action, and subvention. The post Categorizing Open Access Business Models appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Tue, 28 Jul 2026 09:30:19 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/07/28/categorizing-open-access-business-models/</guid>
     </item>
   </channel>
 </rss>
