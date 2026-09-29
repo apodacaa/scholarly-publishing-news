@@ -5,7 +5,23 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Sep 2026 04:24:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 04:54:49 +0000</lastBuildDate>
+    <item>
+      <title>Let’s Talk About That Anthropic Preprint</title>
+      <link>https://www.the-geyser.com/lets-talk-about-that-anthropic-preprint/</link>
+      <description><![CDATA[Thanks to us, Big Tech uses “cloaked science” to play God and the stock market]]></description>
+      <pubDate>Mon, 28 Sep 2026 12:06:36 +0000</pubDate>
+      <source url="https://the-geyser.com">the-geyser.com</source>
+      <guid isPermaLink="true">https://www.the-geyser.com/lets-talk-about-that-anthropic-preprint/</guid>
+    </item>
+    <item>
+      <title>Zig Zig</title>
+      <link>https://www.the-geyser.com/zig-zig/</link>
+      <description><![CDATA[Fast-following has gone on for decades, and whose strategy are we following?]]></description>
+      <pubDate>Mon, 28 Sep 2026 09:38:37 +0000</pubDate>
+      <source url="https://the-geyser.com">the-geyser.com</source>
+      <guid isPermaLink="true">https://www.the-geyser.com/zig-zig/</guid>
+    </item>
     <item>
       <title>Guest Post — Integrity First: Inside Ukraine’s Publishing Reforms</title>
       <link>https://scholarlykitchen.sspnet.org/2026/09/25/guest-post-integrity-first-inside-ukraines-publishing-reforms/</link>
@@ -389,22 +405,6 @@
       <pubDate>Wed, 05 Aug 2026 09:30:45 +0000</pubDate>
       <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
       <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/08/05/the-published-voice-whose-voice-are-we-really-reading/</guid>
-    </item>
-    <item>
-      <title>From Hub to Hustle: The Scattered Social Landscape in Scholarly Comms</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/08/04/from-hub-to-hustle/</link>
-      <description><![CDATA[How has the social media landscape in scholarly communications changed, according to data from the recent Pulse Check, past community surveys, and checked real, live marketers? The post From Hub to Hustle: The Scattered Social Landscape in Scholarly Comms appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Tue, 04 Aug 2026 09:30:28 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/08/04/from-hub-to-hustle/</guid>
-    </item>
-    <item>
-      <title>It’s Book Publication Day!</title>
-      <link>https://www.the-geyser.com/its-book-publication-day/</link>
-      <description><![CDATA[After a year of work and a year of prep, today’s the day our book finally ships]]></description>
-      <pubDate>Tue, 04 Aug 2026 09:53:52 +0000</pubDate>
-      <source url="https://the-geyser.com">the-geyser.com</source>
-      <guid isPermaLink="true">https://www.the-geyser.com/its-book-publication-day/</guid>
     </item>
   </channel>
 </rss>
