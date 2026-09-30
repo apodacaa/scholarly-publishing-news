@@ -5,7 +5,15 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Sep 2026 04:54:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 04:41:05 +0000</lastBuildDate>
+    <item>
+      <title>Submissions ≠ Good News</title>
+      <link>https://www.the-geyser.com/submissions-arent-good-news/</link>
+      <description><![CDATA[Publishers brag about their submission growth, not factoring in the yield]]></description>
+      <pubDate>Tue, 29 Sep 2026 10:00:13 +0000</pubDate>
+      <source url="https://the-geyser.com">the-geyser.com</source>
+      <guid isPermaLink="true">https://www.the-geyser.com/submissions-arent-good-news/</guid>
+    </item>
     <item>
       <title>Let’s Talk About That Anthropic Preprint</title>
       <link>https://www.the-geyser.com/lets-talk-about-that-anthropic-preprint/</link>
@@ -397,14 +405,6 @@
       <pubDate>Thu, 06 Aug 2026 09:06:31 +0000</pubDate>
       <source url="https://the-geyser.com">the-geyser.com</source>
       <guid isPermaLink="true">https://www.the-geyser.com/this-weeks-texted-discoveries-36/</guid>
-    </item>
-    <item>
-      <title>The Published Voice: Whose Voice Are We Really Reading?</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/08/05/the-published-voice-whose-voice-are-we-really-reading/</link>
-      <description><![CDATA[What happens then to “author voice,” which has always been an important consideration to authors and reviewers alike, if AI is helping researchers with their writing? The post The Published Voice: Whose Voice Are We Really Reading? appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Wed, 05 Aug 2026 09:30:45 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/08/05/the-published-voice-whose-voice-are-we-really-reading/</guid>
     </item>
   </channel>
 </rss>
