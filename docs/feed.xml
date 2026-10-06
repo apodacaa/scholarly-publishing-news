@@ -5,7 +5,15 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Oct 2026 04:44:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 05:31:45 +0000</lastBuildDate>
+    <item>
+      <title>arXiv Is Rate Limiting Submissions Because It Can’t Keep up With AI Slop</title>
+      <link>https://www.404media.co/arxiv-is-rate-limiting-submissions-because-it-cant-keep-up-with-ai-slop/</link>
+      <description><![CDATA[The academic publisher said submissions have doubled in the past two years and moderators are having a hard time keeping up.]]></description>
+      <pubDate>Mon, 05 Oct 2026 15:29:49 +0000</pubDate>
+      <source url="https://404media.co">404media.co</source>
+      <guid isPermaLink="true">https://www.404media.co/arxiv-is-rate-limiting-submissions-because-it-cant-keep-up-with-ai-slop/</guid>
+    </item>
     <item>
       <title>Ask the Chefs: What Would You Have Done Differently About Open Access/Open Science if You Predicted the World as it Exists Today? Part 2</title>
       <link>https://scholarlykitchen.sspnet.org/2026/10/02/ask-the-chefs-what-would-you-have-done-differently-about-open-access-open-science-if-you-predicted-the-world-as-it-exists-today-part-2/</link>
@@ -397,14 +405,6 @@
       <pubDate>Tue, 11 Aug 2026 13:38:28 +0000</pubDate>
       <source url="https://404media.co">404media.co</source>
       <guid isPermaLink="true">https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/</guid>
-    </item>
-    <item>
-      <title>New Guidance from COPE: An Interview with Natalie Ridgway</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/08/10/new-guidance-from-cope-an-interview-with-natalie-ridgway/</link>
-      <description><![CDATA[An interview with Natalie Ridgway about new guidelines from the Committee on Publication Ethics. The post New Guidance from COPE: An Interview with Natalie Ridgway appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Mon, 10 Aug 2026 09:30:56 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/08/10/new-guidance-from-cope-an-interview-with-natalie-ridgway/</guid>
     </item>
   </channel>
 </rss>
