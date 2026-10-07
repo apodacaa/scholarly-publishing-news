@@ -5,7 +5,23 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Oct 2026 05:31:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 05:00:35 +0000</lastBuildDate>
+    <item>
+      <title>Research Integrity in Scholarly Communications — SSP Pulse Check Report</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/10/06/research-integrity-in-scholarly-communications-ssp-pulse-check-report/</link>
+      <description><![CDATA[Today, we take a dive into the results of SSP's latest Pulse Check Survey, revealing how our community is grappling with research integrity and its interconnected challenges. The post Research Integrity in Scholarly Communications — SSP Pulse Check Report appeared first on The Scholarly Kitchen .]]></description>
+      <pubDate>Tue, 06 Oct 2026 09:30:14 +0000</pubDate>
+      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
+      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/10/06/research-integrity-in-scholarly-communications-ssp-pulse-check-report/</guid>
+    </item>
+    <item>
+      <title>Come See What’s Next for Us</title>
+      <link>https://www.the-geyser.com/charleston-premiers-and-us/</link>
+      <description><![CDATA[Let us tell you about it at the Charleston Conference in November]]></description>
+      <pubDate>Tue, 06 Oct 2026 09:50:04 +0000</pubDate>
+      <source url="https://the-geyser.com">the-geyser.com</source>
+      <guid isPermaLink="true">https://www.the-geyser.com/charleston-premiers-and-us/</guid>
+    </item>
     <item>
       <title>arXiv Is Rate Limiting Submissions Because It Can’t Keep up With AI Slop</title>
       <link>https://www.404media.co/arxiv-is-rate-limiting-submissions-because-it-cant-keep-up-with-ai-slop/</link>
@@ -389,22 +405,6 @@
       <pubDate>Wed, 12 Aug 2026 09:47:30 +0000</pubDate>
       <source url="https://the-geyser.com">the-geyser.com</source>
       <guid isPermaLink="true">https://www.the-geyser.com/jama-misses-on-ai-policies/</guid>
-    </item>
-    <item>
-      <title>What Authors Expect Now, and Why Publishing Hasn’t Kept Up: An Interview with Jennifer Fleet of Aries Systems and Christian Grubak of ChronosHub</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/08/11/what-authors-expect-now-and-why-publishing-hasnt-kept-up-an-interview-with-jennifer-fleet-of-aries-systems-and-christian-grubak-of-chronoshub/</link>
-      <description><![CDATA[Today Alice Meadows interviews Jennifer Fleet (Aries Systems) and Christian Gruback (ChronosHub) about changing author needs and how their recently announced partnership is an effort to address them. The post What Authors Expect Now, and Why Publishing Hasn’t Kept Up: An Interview with Jennifer Fleet of Aries Systems and Christian Grubak of ChronosHub appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Tue, 11 Aug 2026 09:30:37 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/08/11/what-authors-expect-now-and-why-publishing-hasnt-kept-up-an-interview-with-jennifer-fleet-of-aries-systems-and-christian-grubak-of-chronoshub/</guid>
-    </item>
-    <item>
-      <title>Company Offering ‘100% Human-Written, Never AI’ Medical Research Is Entirely AI</title>
-      <link>https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/</link>
-      <description><![CDATA[Research Gold's team of human methodologists are either AI generated or using the identity of real people without their permission]]></description>
-      <pubDate>Tue, 11 Aug 2026 13:38:28 +0000</pubDate>
-      <source url="https://404media.co">404media.co</source>
-      <guid isPermaLink="true">https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/</guid>
     </item>
   </channel>
 </rss>
