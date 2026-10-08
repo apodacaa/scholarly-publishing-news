@@ -5,7 +5,23 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Oct 2026 05:00:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 05:11:04 +0000</lastBuildDate>
+    <item>
+      <title>TRACE Project Launches to Advance AI interoperability</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/10/07/trace-project-launches-to-advance-ai-interoperability/</link>
+      <description><![CDATA[The community comes together to launch TRACE, a project to improve generative AI systems' interoperability, verifiability and usage tracking. The post TRACE Project Launches to Advance AI interoperability appeared first on The Scholarly Kitchen .]]></description>
+      <pubDate>Wed, 07 Oct 2026 09:30:07 +0000</pubDate>
+      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
+      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/10/07/trace-project-launches-to-advance-ai-interoperability/</guid>
+    </item>
+    <item>
+      <title>Podcast: Leave arXiv Alone</title>
+      <link>https://www.the-geyser.com/podcast-leave-arxiv-alone/</link>
+      <description><![CDATA[Those exploiting our infrastructure can return to minding their own business]]></description>
+      <pubDate>Wed, 07 Oct 2026 18:27:55 +0000</pubDate>
+      <source url="https://the-geyser.com">the-geyser.com</source>
+      <guid isPermaLink="true">https://www.the-geyser.com/podcast-leave-arxiv-alone/</guid>
+    </item>
     <item>
       <title>Research Integrity in Scholarly Communications — SSP Pulse Check Report</title>
       <link>https://scholarlykitchen.sspnet.org/2026/10/06/research-integrity-in-scholarly-communications-ssp-pulse-check-report/</link>
@@ -389,22 +405,6 @@
       <pubDate>Thu, 13 Aug 2026 10:06:17 +0000</pubDate>
       <source url="https://the-geyser.com">the-geyser.com</source>
       <guid isPermaLink="true">https://www.the-geyser.com/this-weeks-texted-discoveries-37/</guid>
-    </item>
-    <item>
-      <title>Reading Between the Lines, Part 1: A Cognitive Framework for AI in Scholarly Publishing</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/08/12/reading-between-the-lines-part-1-a-cognitive-framework-for-ai-in-scholarly-publishing/</link>
-      <description><![CDATA[AI is now a permanent feature of the scholarly landscape. The question is no longer whether it should be used, but how it should be understood and governed. The post Reading Between the Lines, Part 1: A Cognitive Framework for AI in Scholarly Publishing appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Wed, 12 Aug 2026 09:30:43 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/08/12/reading-between-the-lines-part-1-a-cognitive-framework-for-ai-in-scholarly-publishing/</guid>
-    </item>
-    <item>
-      <title>JAMA Misses on AI Policies</title>
-      <link>https://www.the-geyser.com/jama-misses-on-ai-policies/</link>
-      <description><![CDATA[More restrictive, but the new guidance shows JAMA is learning the hard way]]></description>
-      <pubDate>Wed, 12 Aug 2026 09:47:30 +0000</pubDate>
-      <source url="https://the-geyser.com">the-geyser.com</source>
-      <guid isPermaLink="true">https://www.the-geyser.com/jama-misses-on-ai-policies/</guid>
     </item>
   </channel>
 </rss>
