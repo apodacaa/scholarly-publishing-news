@@ -5,7 +5,15 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 03:50:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 04:01:54 +0000</lastBuildDate>
+    <item>
+      <title>JAMA Takes Another In the AI</title>
+      <link>https://www.the-geyser.com/jama-takes-another-in-the-ai/</link>
+      <description><![CDATA[Getting high on their own AI supply, JAMA seems to forget about COI . . .]]></description>
+      <pubDate>Mon, 19 Oct 2026 09:25:00 +0000</pubDate>
+      <source url="https://the-geyser.com">the-geyser.com</source>
+      <guid isPermaLink="true">https://www.the-geyser.com/jama-takes-another-in-the-ai/</guid>
+    </item>
     <item>
       <title>Guest Post — From an Accidental Title List to a Connected Supply Chain: My Years with KBART</title>
       <link>https://scholarlykitchen.sspnet.org/2026/10/16/guest-post-from-an-accidental-title-list-to-a-connected-supply-chain-my-years-with-kbart/</link>
@@ -33,7 +41,7 @@
     <item>
       <title>Reflecting on HSS Publishing as Informa Plans to Separate Taylor &amp; Francis</title>
       <link>https://scholarlykitchen.sspnet.org/2026/10/13/hss-informa-tf/</link>
-      <description><![CDATA[Big changes are afoot, particularly for the HSS parts of scholarly publishing, as Informa announces its intention to separate Taylor &amp;amp;amp;amp;amp;amp; Francis. Roger Schonfeld reflects on the possible mechanisms and some potential ramifications The post Reflecting on HSS Publishing as Informa Plans to Separate Taylor &amp;amp;amp;amp;amp;amp; Francis appeared first on The Scholarly Kitchen .]]></description>
+      <description><![CDATA[Big changes are afoot, particularly for the HSS parts of scholarly publishing, as Informa announces its intention to separate Taylor &amp;amp;amp;amp;amp;amp;amp; Francis. Roger Schonfeld reflects on the possible mechanisms and some potential ramifications The post Reflecting on HSS Publishing as Informa Plans to Separate Taylor &amp;amp;amp;amp;amp;amp;amp; Francis appeared first on The Scholarly Kitchen .]]></description>
       <pubDate>Tue, 13 Oct 2026 09:30:46 +0000</pubDate>
       <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
       <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/10/13/hss-informa-tf/</guid>
@@ -397,14 +405,6 @@
       <pubDate>Wed, 19 Aug 2026 09:30:55 +0000</pubDate>
       <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
       <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/08/19/guest-post-ai-can-find-the-article-can-it-tell-which-version-it-used/</guid>
-    </item>
-    <item>
-      <title>Pod: Scientific Publishing’s Fauci Reckoning</title>
-      <link>https://www.the-geyser.com/pod-scientific-publishings-fauci-reckoning/</link>
-      <description><![CDATA[Did our approach to Covid-19 publishing make the Fauci hearing possible?]]></description>
-      <pubDate>Wed, 19 Aug 2026 17:50:43 +0000</pubDate>
-      <source url="https://the-geyser.com">the-geyser.com</source>
-      <guid isPermaLink="true">https://www.the-geyser.com/pod-scientific-publishings-fauci-reckoning/</guid>
     </item>
   </channel>
 </rss>
