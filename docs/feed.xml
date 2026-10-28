@@ -5,7 +5,23 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 04:14:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 04:43:38 +0000</lastBuildDate>
+    <item>
+      <title>Who Keeps the Catalog of Connectors? The Coming MCP Discovery Problem</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/10/27/mcp-discovery/</link>
+      <description><![CDATA[Libraries and their vendor partners can build registries and metadata feeds that make MCP connectors for scholarly content findable, accessible,  and usable. The post Who Keeps the Catalog of Connectors? The Coming MCP Discovery Problem appeared first on The Scholarly Kitchen .]]></description>
+      <pubDate>Tue, 27 Oct 2026 09:30:06 +0000</pubDate>
+      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
+      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/10/27/mcp-discovery/</guid>
+    </item>
+    <item>
+      <title>OA Expanded “Publish or Perish”</title>
+      <link>https://www.the-geyser.com/oa-expanded-publish-or-perish/</link>
+      <description><![CDATA[Like so many consequences of open science, “unintended” seems like weak tea]]></description>
+      <pubDate>Tue, 27 Oct 2026 10:13:00 +0000</pubDate>
+      <source url="https://the-geyser.com">the-geyser.com</source>
+      <guid isPermaLink="true">https://www.the-geyser.com/oa-expanded-publish-or-perish/</guid>
+    </item>
     <item>
       <title>Guest Post — When Research Integrity Fails, the Entire System Follows</title>
       <link>https://scholarlykitchen.sspnet.org/2026/10/26/guest-post-when-research-integrity-fails-the-entire-system-follows/</link>
@@ -97,7 +113,7 @@
     <item>
       <title>Reflecting on HSS Publishing as Informa Plans to Separate Taylor &amp; Francis</title>
       <link>https://scholarlykitchen.sspnet.org/2026/10/13/hss-informa-tf/</link>
-      <description><![CDATA[Big changes are afoot, particularly for the HSS parts of scholarly publishing, as Informa announces its intention to separate Taylor &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Francis. Roger Schonfeld reflects on the possible mechanisms and some potential ramifications The post Reflecting on HSS Publishing as Informa Plans to Separate Taylor &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Francis appeared first on The Scholarly Kitchen .]]></description>
+      <description><![CDATA[Big changes are afoot, particularly for the HSS parts of scholarly publishing, as Informa announces its intention to separate Taylor &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Francis. Roger Schonfeld reflects on the possible mechanisms and some potential ramifications The post Reflecting on HSS Publishing as Informa Plans to Separate Taylor &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Francis appeared first on The Scholarly Kitchen .]]></description>
       <pubDate>Tue, 13 Oct 2026 09:30:46 +0000</pubDate>
       <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
       <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/10/13/hss-informa-tf/</guid>
@@ -389,22 +405,6 @@
       <pubDate>Thu, 27 Aug 2026 09:30:55 +0000</pubDate>
       <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
       <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/08/27/ai-use-in-the-scholarly-kitchen/</guid>
-    </item>
-    <item>
-      <title>This Week’s Texted Discoveries</title>
-      <link>https://www.the-geyser.com/this-weeks-texted-discoveries-co-2/</link>
-      <description><![CDATA[We are constantly sharing relevant stuff we find — here’s this week’s fetch]]></description>
-      <pubDate>Thu, 27 Aug 2026 09:19:53 +0000</pubDate>
-      <source url="https://the-geyser.com">the-geyser.com</source>
-      <guid isPermaLink="true">https://www.the-geyser.com/this-weeks-texted-discoveries-co-2/</guid>
-    </item>
-    <item>
-      <title>The AI ‘Ghosts’ Contaminating Academic Publishing</title>
-      <link>https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/</link>
-      <description><![CDATA[“The academic record is being quietly haunted” by researchers with names like Elena Vasquez and Marcus Chen.]]></description>
-      <pubDate>Thu, 27 Aug 2026 18:14:29 +0000</pubDate>
-      <source url="https://404media.co">404media.co</source>
-      <guid isPermaLink="true">https://www.404media.co/the-ai-ghosts-contaminating-academic-publishing/</guid>
     </item>
   </channel>
 </rss>
