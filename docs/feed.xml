@@ -5,7 +5,23 @@
     <description><![CDATA[AI-curated news about tools, technology, and partnerships in scholarly publishing]]></description>
     <link>https://scholarlykitchen.sspnet.org</link>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 04:55:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 04:41:38 +0000</lastBuildDate>
+    <item>
+      <title>Guest Post — Freed from Thinking: Protecting Scholarly Publishing from the Slow Erosion of Human Judgment</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/10/30/guest-post-freed-from-thinking-protecting-scholarly-publishing-from-the-slow-erosion-of-human-judgment/</link>
+      <description><![CDATA[Today's guest blogger argues that if we want scholarly publishing to be worth anything in a generation, we must acknowledge the risks we run by relying on intelligent automation. The post Guest Post — Freed from Thinking: Protecting Scholarly Publishing from the Slow Erosion of Human Judgment appeared first on The Scholarly Kitchen .]]></description>
+      <pubDate>Fri, 30 Oct 2026 09:30:18 +0000</pubDate>
+      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
+      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/10/30/guest-post-freed-from-thinking-protecting-scholarly-publishing-from-the-slow-erosion-of-human-judgment/</guid>
+    </item>
+    <item>
+      <title>Ask the SSP Advocacy Committee: What one change would you most like to see in terms of U.S. federal support for research following the midterms?</title>
+      <link>https://scholarlykitchen.sspnet.org/2026/10/29/ask-the-ssp-advocacy-committee-what-one-change-would-you-most-like-to-see-in-terms-of-u-s-federal-support-for-research-following-the-midterms/</link>
+      <description><![CDATA[Today we hear from some of SSP's Advocacy Committee members about what changes they'd like to see to US federal support for research. The post Ask the SSP Advocacy Committee: What one change would you most like to see in terms of U.S. federal support for research following the midterms? appeared first on The Scholarly Kitchen .]]></description>
+      <pubDate>Thu, 29 Oct 2026 09:30:12 +0000</pubDate>
+      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
+      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/10/29/ask-the-ssp-advocacy-committee-what-one-change-would-you-most-like-to-see-in-terms-of-u-s-federal-support-for-research-following-the-midterms/</guid>
+    </item>
     <item>
       <title>How a Preprint Lie Is Maintained</title>
       <link>https://www.the-geyser.com/how-a-preprint-lie-is-maintained/</link>
@@ -121,7 +137,7 @@
     <item>
       <title>Reflecting on HSS Publishing as Informa Plans to Separate Taylor &amp; Francis</title>
       <link>https://scholarlykitchen.sspnet.org/2026/10/13/hss-informa-tf/</link>
-      <description><![CDATA[Big changes are afoot, particularly for the HSS parts of scholarly publishing, as Informa announces its intention to separate Taylor &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Francis. Roger Schonfeld reflects on the possible mechanisms and some potential ramifications The post Reflecting on HSS Publishing as Informa Plans to Separate Taylor &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Francis appeared first on The Scholarly Kitchen .]]></description>
+      <description><![CDATA[Big changes are afoot, particularly for the HSS parts of scholarly publishing, as Informa announces its intention to separate Taylor &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Francis. Roger Schonfeld reflects on the possible mechanisms and some potential ramifications The post Reflecting on HSS Publishing as Informa Plans to Separate Taylor &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; Francis appeared first on The Scholarly Kitchen .]]></description>
       <pubDate>Tue, 13 Oct 2026 09:30:46 +0000</pubDate>
       <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
       <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/10/13/hss-informa-tf/</guid>
@@ -389,22 +405,6 @@
       <pubDate>Tue, 01 Sep 2026 10:16:10 +0000</pubDate>
       <source url="https://the-geyser.com">the-geyser.com</source>
       <guid isPermaLink="true">https://www.the-geyser.com/there-is-no-peer-review-crisis/</guid>
-    </item>
-    <item>
-      <title>We Can Now Track AI-generated Content. It Doesn’t Solve the Real Problem.</title>
-      <link>https://scholarlykitchen.sspnet.org/2026/08/31/we-can-now-track-ai-generated-content/</link>
-      <description><![CDATA[Identifying AI content is now embedded in Claude models. It doesn't solve the problem we have. It also creates others. The post We Can Now Track AI-generated Content. It Doesn’t Solve the Real Problem. appeared first on The Scholarly Kitchen .]]></description>
-      <pubDate>Mon, 31 Aug 2026 09:30:32 +0000</pubDate>
-      <source url="https://scholarlykitchen.sspnet.org">scholarlykitchen.sspnet.org</source>
-      <guid isPermaLink="true">https://scholarlykitchen.sspnet.org/2026/08/31/we-can-now-track-ai-generated-content/</guid>
-    </item>
-    <item>
-      <title>Zenodo’s DOIs Spread AI Lies</title>
-      <link>https://www.the-geyser.com/zenodos-dois-spread-ai-lies/</link>
-      <description><![CDATA[Alex Pretti got smeared by an AI “ghost” scientist who spreads lies using DOIs]]></description>
-      <pubDate>Mon, 31 Aug 2026 09:18:38 +0000</pubDate>
-      <source url="https://the-geyser.com">the-geyser.com</source>
-      <guid isPermaLink="true">https://www.the-geyser.com/zenodos-dois-spread-ai-lies/</guid>
     </item>
   </channel>
 </rss>
